@@ -1,11 +1,4 @@
-# anti-drone
 A comprehensive system for detecting, tracking and gimbal centering which aims to guide an anti-drone drone to its target by using image processing methods.
-
-
-
-Training data, models and addtional files are stored in Google Drive:
-[Link Text]([https://example.com](https://drive.google.com/drive/folders/1Q9OAEnbDwisLjJL6cXj7viFEG7oHPNO4?usp=sharing))
-
 
 # Anti-Drone Computer Vision System (C-UAS Perception Stack)
 
