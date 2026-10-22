@@ -132,7 +132,7 @@ Training data, video clips, and full-size model weights are kept outside
 this repository (GitHub is not meant for large binary storage) and are
 available here:
 
-👉 **[Google Drive folder](https://drive.google.com/drive/folders/1Q9OAEnbDwisLjJL6cXj7viFEG7oHPNO4?usp=sharing)**
+*$*$*$*$*$*$*$*$*$
 
 This includes the labeled dataset, training notebooks/scripts, and the
 trained detection model weights.
