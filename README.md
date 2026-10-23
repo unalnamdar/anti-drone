@@ -154,9 +154,6 @@ g++ -std=c++17 -O2 perception/tracking/tracker_click_demo.cpp \
 ./tracker_click_demo <video.mp4> csrt   # or: mosse
 ```
 
-Full setup instructions (Ubuntu install, PX4/ROS 2/Gazebo version pinning,
-bridge configuration) are in [`docs/`](docs/).
-
 ---
 
 **Limits:** ~10 MB for older accounts, up to 100 MB on repos with GitHub's
